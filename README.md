@@ -239,8 +239,8 @@ AudioVision/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd AudioVision
+git clone https://github.com/Naresh4508/AudioVision-A-Deep-Learning-Based-Song-Identification-System-Using-Visual-Audio-Fingerprints.git
+cd AudioVision-A-Deep-Learning-Based-Song-Identification-System-Using-Visual-Audio-Fingerprints
 ```
 
 ### 2. Create a virtual environment
